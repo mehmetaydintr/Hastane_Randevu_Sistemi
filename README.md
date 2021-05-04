@@ -8,8 +8,16 @@
 
 ## Kullanılan Teknolojiler
 
+  + Android Studio
+
 ![Image of Android Studio](https://semihcelikol.com/wp-content/uploads/2017/12/android-studio-logo.png "Android Studio")
+
+  + Java
+
 ![Image of Java](https://yazilimamelesi.files.wordpress.com/2013/03/java_logo.jpg "Java")
+  
+  + Firebase
+
 ![Image of Firebase](https://firebase.google.com/images/social.png "Firebase")
 
 ## Proje Tanımı
