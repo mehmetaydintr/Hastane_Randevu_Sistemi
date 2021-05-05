@@ -2,9 +2,9 @@
 
 ## İçerik
 
-1. Kullanılan Teknojiler
-2. Proje Tanımı
-3. Rollerin Dağılımı
+1. [Kullanılan Teknojiler](https://github.com/mehmetaydintr/Hastane_Randevu_Sistemi#kullan%C4%B1lan-teknolojiler)
+2. [Proje Tanımı](https://github.com/mehmetaydintr/Hastane_Randevu_Sistemi#proje-tan%C4%B1m%C4%B1)
+3. [Rollerin Dağılımı](https://github.com/mehmetaydintr/Hastane_Randevu_Sistemi#rollerin-da%C4%9F%C4%B1l%C4%B1m%C4%B1)
 
 ## Kullanılan Teknolojiler
 
